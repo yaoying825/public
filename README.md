@@ -1,6 +1,10 @@
 # public
 public
 
+lr：
+logistic regression 逻辑回归
+https://zhuanlan.zhihu.com/p/100763009
+
 gbdt：
 gradiant boosting 梯度提升
 decision tree 决策树
