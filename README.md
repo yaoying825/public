@@ -21,6 +21,7 @@ https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%A6%82%E7%8E%87%E8%A
 
 
 一天会一个小算法之：
+
 3月30：swing算法 （召回）
       通过I*U * U*I的大矩阵乘法结果，获取两个item的相似度。但如若两个用户的swing越多，权重越低。
       https://www.zhihu.com/search?type=content&q=swing%E7%AE%97%E6%B3%95
