@@ -1,6 +1,9 @@
 # public
 public
 
+线性回归：
+https://www.zhihu.com/search?type=content&q=%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92
+
 lr：
 logistic regression 逻辑回归
 https://zhuanlan.zhihu.com/p/73608677
