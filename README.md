@@ -3,6 +3,7 @@ public
 
 lr：
 logistic regression 逻辑回归
+https://zhuanlan.zhihu.com/p/73608677
 https://zhuanlan.zhihu.com/p/100763009
 
 gbdt：
