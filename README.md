@@ -18,6 +18,9 @@ https://blog.csdn.net/qq_30331643/article/details/102460464
 概统学习（20210324-20210420）
 https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/notes/P%26MS%20-%2020160422Revised.pdf
 
+特征工程：
+https://www.zhihu.com/question/28641663/answer/110165221
+
 
 
 一天会一个小算法之：
