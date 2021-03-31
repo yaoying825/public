@@ -36,6 +36,9 @@ https://www.zhihu.com/question/28641663/answer/110165221
 3月31: 树模型（模型）
       在许多实际情况下，确定性建模比概率建模更自然。例如，预测用户是否从某电商网站购买一样商品，这时树模型是很好的选择，因为用户天然地遵循基于规则的决策过程。
       https://www.zhihu.com/search?type=content&q=%E5%9F%BA%E4%BA%8E%E6%A0%91%E7%9A%84%E7%89%B9%E5%BE%81
+      
+3月32: 强化学习
+      https://zhuanlan.zhihu.com/p/25239682
 
 
 
