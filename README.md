@@ -38,6 +38,7 @@ https://www.zhihu.com/question/28641663/answer/110165221
       https://www.zhihu.com/search?type=content&q=%E5%9F%BA%E4%BA%8E%E6%A0%91%E7%9A%84%E7%89%B9%E5%BE%81
       
 3月32: 强化学习
+      value-based DQN，使用Q-learning来预测value； policy-based DDPG, 沿着梯队方向一点点调整方向直到达到策略最优
       https://zhuanlan.zhihu.com/p/25239682
 
 
