@@ -40,6 +40,7 @@ https://www.zhihu.com/question/28641663/answer/110165221
 3月32: 强化学习
       value-based DQN，使用Q-learning来预测value； policy-based DDPG, 沿着梯队方向一点点调整方向直到达到策略最优
       https://zhuanlan.zhihu.com/p/25239682
+      
 3月33: 感知机
       https://zhuanlan.zhihu.com/p/25696112
 
