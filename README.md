@@ -42,6 +42,7 @@ https://www.zhihu.com/question/28641663/answer/110165221
       https://zhuanlan.zhihu.com/p/25239682
       
 3月33: 感知机
+      学习二分类超平面
       https://zhuanlan.zhihu.com/p/25696112
 
 
